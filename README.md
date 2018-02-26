@@ -1,0 +1,2 @@
+# SmartMeetingPublicInfoPublisher
+智能会议公共场所大屏幕
